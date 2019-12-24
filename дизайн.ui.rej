@@ -1,0 +1,24 @@
+diff a/Project/дизайн.ui b/Project/дизайн.ui	(rejected hunks)
+@@ -6,19 +6,19 @@
+    <rect>
+     <x>0</x>
+     <y>0</y>
+-    <width>1900</width>
++    <width>1440</width>
+     <height>990</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+-    <width>1900</width>
++    <width>1440</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+-    <width>16777215</width>
++    <width>1440</width>
+     <height>16777215</height>
+    </size>
+   </property>
